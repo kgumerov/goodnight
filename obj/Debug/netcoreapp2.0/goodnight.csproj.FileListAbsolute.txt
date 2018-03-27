@@ -1,0 +1,10 @@
+C:\Users\gumerovk\Desktop\apps\goodnight\bin\Debug\netcoreapp2.0\goodnight.deps.json
+C:\Users\gumerovk\Desktop\apps\goodnight\bin\Debug\netcoreapp2.0\goodnight.runtimeconfig.json
+C:\Users\gumerovk\Desktop\apps\goodnight\bin\Debug\netcoreapp2.0\goodnight.runtimeconfig.dev.json
+C:\Users\gumerovk\Desktop\apps\goodnight\bin\Debug\netcoreapp2.0\goodnight.dll
+C:\Users\gumerovk\Desktop\apps\goodnight\bin\Debug\netcoreapp2.0\goodnight.pdb
+C:\Users\gumerovk\Desktop\apps\goodnight\obj\Debug\netcoreapp2.0\goodnight.csproj.CoreCompileInputs.cache
+C:\Users\gumerovk\Desktop\apps\goodnight\obj\Debug\netcoreapp2.0\goodnight.AssemblyInfoInputs.cache
+C:\Users\gumerovk\Desktop\apps\goodnight\obj\Debug\netcoreapp2.0\goodnight.AssemblyInfo.cs
+C:\Users\gumerovk\Desktop\apps\goodnight\obj\Debug\netcoreapp2.0\goodnight.dll
+C:\Users\gumerovk\Desktop\apps\goodnight\obj\Debug\netcoreapp2.0\goodnight.pdb
